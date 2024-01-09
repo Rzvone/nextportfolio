@@ -15,7 +15,7 @@ const Hero = () => {
   };
 
   return (
-    <div className={`h-[95vh] mt-[10vh] bg-cover bg-center`}>
+    <div className={`h-[95vh] mt-[10vh] bg-cover bg-center `}>
       <Particle />
       <div className="w-[80%] grid-cols-1 mx-auto grid lg:grid-cols-2 gap-[3rem] h-full items center mt-10">
         <div className="z-[1000]">
@@ -24,7 +24,7 @@ const Hero = () => {
             <span className="text-green-600">van</span>!
           </h1>
           <TextEffect />
-          <p className="mt-[1.5rem] text-[18px] text-gray-400">
+          <p className="mt-[1.5rem] text-[18px] text-gray-400  ">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores
             natus, non reiciendis tenetur voluptatibus ad quis maxime,
             architecto veritatis culpa quibusdam nostrum iusto cupiditate.

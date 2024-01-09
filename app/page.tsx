@@ -3,6 +3,7 @@ import About from '@/components/About'
 import Hero from '@/components/Hero'
 import MobileNav from '@/components/MobileNav'
 import Nav from '@/components/Nav'
+import Projects from '@/components/Projects'
 import Services from '@/components/Services'
 import Skills from '@/components/Skills'
 import { useState } from 'react'
@@ -15,7 +16,7 @@ export default function Home() {
 
 
   return (
-    <div className='overflow-x-hidden'>
+    <div className='overflow-x-hidden select-none'>
       {/* NavBar */}
       <div>
         <MobileNav nav={nav} closeNav={closeNav} />
@@ -27,11 +28,15 @@ export default function Home() {
 
         <div className='relative z-[3000]'>
           <About />
+
           {/* services */}
           <Services />
+
           {/* skills */}
           <Skills />
+
           {/* Projects */}
+          <Projects />
         </div>
       </div>
     </div>

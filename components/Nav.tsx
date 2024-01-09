@@ -12,7 +12,7 @@ const Nav = ({openNav} : Props) => {
             <h1 className='flex-[0.6] cursor-pointer text-[25px] text-white font-bold ml-10'>
                 Raz<span className='text-green-600'>van</span>
             </h1>
-            <div className='nav-link'>Home</div>
+            <div className='nav-link'><a href='/'>Home</a></div>
             <div className='nav-link'>Services</div>
             <div className='nav-link'>About</div>
             <div className='nav-link'>Projects</div>

@@ -1,4 +1,4 @@
-import { ArrowPathIcon, CodeBracketSquareIcon, CommandLineIcon, RocketLaunchIcon } from '@heroicons/react/20/solid'
+import { ArrowPathIcon, CheckBadgeIcon, CodeBracketSquareIcon, CommandLineIcon, RocketLaunchIcon } from '@heroicons/react/20/solid'
 import React from 'react'
 
 const Services = () => {

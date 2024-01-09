@@ -34,7 +34,7 @@ const Particle = () => {
                 value: "#140018",
               },
           },
-          fpsLimit: 120,
+          fpsLimit: 160,
           interactivity: {
             events: {
               onClick: {
@@ -52,8 +52,8 @@ const Particle = () => {
                 quantity: 4,
               },
               repulse: {
-                distance: 100,
-                duration: 0.5,
+                distance: 120,
+                duration: 0.4,
               },
             },
           },
@@ -63,7 +63,7 @@ const Particle = () => {
             },
             links: {
               color: "#fff",
-              distance: 120,
+              distance: 100,
               enable: true,
               opacity: 0.5,
               width: 1,
@@ -81,7 +81,7 @@ const Particle = () => {
             number: {
               density: {
                 enable: true,
-                area: 800,
+                area: 600,
               },
               value: 60,
             },

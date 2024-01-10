@@ -32,7 +32,7 @@ const About = () => {
                     This experience started my fascination with
                     making complex tasks more eﬀicient and user-
                     friendly. With this I have extended my hobby to
-                    smart home projects using Pi's, esp32 controllers,
+                    smart home projects using Pi&apos;s, esp32 controllers,
                     arduino and so on. My future plans are driven by a
                     desire to continue on this path of automation and
                     become a DevOps professional. I am to master the

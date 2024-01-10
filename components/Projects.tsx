@@ -43,6 +43,7 @@ function Projects() {
                                 alt={project.title}
                                 layout='fill'
                                 className='object-contain'
+                                draggable={false}
                             />
                         </div>
                         <button onClick={() => window.open(project.repo, '_blank')}  className='mt-5 text-white bg-green-700 w-[50%] h-[30px] rounded-full hover:bg-[#55e6a5]'>Repo</button>

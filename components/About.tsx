@@ -72,6 +72,7 @@ const About = () => {
                 layout='fill'
                 objectFit='contain'
                 className='relative z-[11] w-full h-full object-contain'
+                draggable={false}
               />
               <div className='absolute w-full h-full z-[10] bg-[#55e6a5] top-[-2rem] right-[-2rem]'>
 

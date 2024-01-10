@@ -42,7 +42,11 @@ const Skills = () => {
                     level: '70%'
                 }
                 
-            ]
+            ],
+            description: `As an aspiring Junior MERN Stack Developer, I'm enthusiastic about leveraging MongoDB, Express.js, React, 
+            and Node.js to craft dynamic web applications. Eager to learn and contribute, I bring a passion for creating responsive 
+            and scalable solutions. Excited about the opportunity to grow and collaborate, I'm ready to embark on projects that enhance 
+            my skills and contribute positively to your team.`
         },
         {
             title: 'Java Developer',
@@ -64,7 +68,11 @@ const Skills = () => {
                     skill: 'spring security',
                     level: '60%'
                 }
-            ]
+            ],
+            description: `As a Junior Java Developer with a focus on the Spring Framework, I am eager to contribute my skills to your 
+            projects. Proficient in Java and experienced in developing with Spring, I am enthusiastic about crafting efficient and 
+            robust solutions. With a commitment to learning and adapting, I am ready to collaborate on building sophisticated applications 
+            that meet your requirements and advance my expertise.`
         },
         {
             title: 'DevOps',
@@ -83,7 +91,11 @@ const Skills = () => {
                     level: '65%'
                 },
                 
-            ]
+            ],
+            description: `As a DevOps enthusiast and learner, I am passionate about optimizing software development processes and enhancing 
+            collaboration between teams. Eager to acquire skills in automation, CI/CD, and infrastructure as code, I am committed to 
+            streamlining workflows and ensuring efficient, reliable deployments. Excited about the continuous learning journey, I am 
+            ready to contribute to creating a more seamless and productive development environment through my evolving DevOps expertise.`
         }
     ]
 
@@ -94,7 +106,7 @@ const Skills = () => {
         <div className='w-[80%] mx-auto pt-[4rem] md:pt-[8rem] grid grid-cols-1 gap-[2rem] items-center'>
                {skillsData.map((item, index) => (
                     <div key={index}>
-                        <SkillsItem title={item.title} year={item.year} />
+                        <SkillsItem title={item.title} year={item.year} description={item.description}/>
                             {item.skills.map((skill, skillIndex) => (
                                 <SkillLang 
                                     key={skillIndex}

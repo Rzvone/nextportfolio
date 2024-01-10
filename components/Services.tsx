@@ -13,9 +13,9 @@ const Services = () => {
               />
               <h1 className='text-[20xp] md:text-[30px] mt-[1.5rem] mb-[1.5]'>Frontend</h1>
               <p className='text-[15px] text-[#d3d2d2] font-normal'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Ipsa repudiandae voluptates, porro quas ea provident iure libero assumenda distinctio, 
-                necessitatibus, dicta sunt tenetur dignissimos. Aliquid modi excepturi ex corporis nihil?
+                I am a creative and innovative front-end developer with a passion for crafting websites that are both visually stunning and user-friendly.
+                I am always up-to-date on the latest and greatest front-end technologies and I&apos;m always looking for new and 
+                innovative ways and ideas to improve the user experience. I am confident that I can help you create the perfect website for your business. 
               </p>
             </div>
           </div>
@@ -26,9 +26,10 @@ const Services = () => {
               />
               <h1 className='text-[20xp] md:text-[30px] mt-[1.5rem] mb-[1.5]'>Backend</h1>
               <p className='text-[15px] text-[#d3d2d2] font-normal'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Ipsa repudiandae voluptates, porro quas ea provident iure libero assumenda distinctio, 
-                necessitatibus, dicta sunt tenetur dignissimos. Aliquid modi excepturi ex corporis nihil?
+                I&apos;m a creative backend developer, passionate about crafting robust systems for dynamic websites. 
+                My expertise spans scalable solutions, database design, and server-side logic. Always updated on the latest technologies, 
+                I ensure optimal performance and functionality alignment. Let&apos;s collaborate to bring your digital vision to life 
+                through innovative backend development.
               </p>
             </div>
           </div>
@@ -39,9 +40,10 @@ const Services = () => {
               />
               <h1 className='text-[20xp] md:text-[30px] mt-[1.5rem] mb-[1.5]'>FullStack</h1>
               <p className='text-[15px] text-[#d3d2d2] font-normal'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Ipsa repudiandae voluptates, porro quas ea provident iure libero assumenda distinctio, 
-                necessitatibus, dicta sunt tenetur dignissimos. Aliquid modi excepturi ex corporis nihil?
+                Whether aiming to rejuvenate your current digital presence, establish a cutting-edge e-commerce platform, 
+                or create a bespoke web application perfectly aligned with your unique requirements, I am confident in my capacity to 
+                provide a comprehensive solution. I pledge not only to meet your expectations but to surpass them, ensuring a 
+                transformative digital experience tailored precisely to your needs.
               </p>
             </div>
           </div>
@@ -52,9 +54,9 @@ const Services = () => {
               />
               <h1 className='text-[20xp] md:text-[30px] mt-[1.5rem] mb-[1.5]'>DevOps</h1>
               <p className='text-[15px] text-[#d3d2d2] font-normal'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Ipsa repudiandae voluptates, porro quas ea provident iure libero assumenda distinctio, 
-                necessitatibus, dicta sunt tenetur dignissimos. Aliquid modi excepturi ex corporis nihil?
+                While I&apos;m still in the early stages of my DevOps journey, I&apos;m committed to continuous learning and self-improvement. I actively seek out mentorship, 
+                participate in online communities, and explore new technologies to broaden my skill set. I&apos;m confident that my enthusiasm, dedication, and eagerness to 
+                learn will enable me to become a valuable asset in any DevOps team.
               </p>
             </div>
           </div>

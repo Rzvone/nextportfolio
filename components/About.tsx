@@ -25,9 +25,23 @@ const About = () => {
                 <div className='mb-[3rem] flex items-center md:space-x-10'>
                   <span className='w-[100px] hidden md:block h-[5px] bg-slate-400 rounded-sm'></span>
                   <p className='text-[19px] text-slate-300 w-[80%]'>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                    Saepe sunt minima non, amet nulla velit labore rerum repellendus tempora, 
-                    pariatur totam necessitatibus voluptatem maiores. Ipsum quo illo earum quasi soluta!
+                    I am an avid learner with a passion for
+                    automation. My journey started with a project in
+                    Power Bi, where I streamlined the casino
+                    reporting, reducing it from days to mere hours.
+                    This experience started my fascination with
+                    making complex tasks more eﬀicient and user-
+                    friendly. With this I have extended my hobby to
+                    smart home projects using Pi's, esp32 controllers,
+                    arduino and so on. My future plans are driven by a
+                    desire to continue on this path of automation and
+                    become a DevOps professional. I am to master the
+                    art of automating software development,
+                    deployment and infrastructure management. I
+                    aspire to one day become a mentor to junior
+                    professionals, sharing my knowledge, experiences
+                    and values to help them grow into great
+                    engineers.
                   </p>
                 </div>
                 <button 

@@ -25,10 +25,7 @@ const Hero = () => {
           </h1>
           <TextEffect />
           <p className="mt-[1.5rem] text-[18px] text-gray-400  ">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores
-            natus, non reiciendis tenetur voluptatibus ad quis maxime,
-            architecto veritatis culpa quibusdam nostrum iusto cupiditate.
-            Dolorem ratione quis quasi ducimus provident?
+            Hello, I'm Razvan, a passionate Full Stack Developer with a keen eye for creating innovative and efficient solutions. With a solid foundation in both front-end and back-end technologies, I specialize in crafting dynamic and responsive web applications. My commitment to clean, maintainable code and a user-centric approach sets the stage for delivering seamless digital experiences. Explore my portfolio to witness the fusion of creativity and technical expertise, as I continue to push the boundaries of what's possible in the world of web development.
           </p>
           <div className="mt-[2rem] flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center sm: space-x-6">
             <button
